@@ -1,0 +1,13 @@
+s3:
+  endpoint_url : "http://localhost:4566"
+  aws_access_key_id : "dev"
+  aws_secret_access_key : "dev"
+
+db:
+  user : "postgres"
+  password : "postgres"
+  host : "172.26.0.1"
+  port : 5432
+  database : "testing"
+
+bucket : "models"
