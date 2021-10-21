@@ -3,9 +3,9 @@
 Model registry currently supports the below framewoks
 
 * Sklearn
-* Tensorflow
-* Pytorch
-* Spacy
+* Tensorflow (*In progress*)
+* Pytorch    (*In progress*)
+* Spacy      (*In progress*)
 
 ## Signature 
 
